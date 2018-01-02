@@ -1,0 +1,41 @@
+        h1{  
+    		color: orange;
+    		font-size: 90px;
+    		text-decoration: underline;
+            margin-right: 0px;
+            margin-left: 0px;
+            margin-bottom: 16px;
+            margin-top: 16px;
+    	}
+
+
+    	h2{
+    		color: green;
+    		font-size: 22px;
+    		text-decoration: underline;
+    	}
+
+    	.small {
+    		font-size: 46px;
+    		color: purple;
+    	}
+
+    	span{
+    		font-size: 20px;
+    		color: black;
+    		text-decoration: initial;
+    		font-style: italic;
+    	}
+        
+        .bold{
+        	font-style:normal;
+        }
+
+        h2 span{
+        	color: orange;
+        	text-decoration: line-through;
+        }
+        
+        body{
+            background-color: lightgrey;
+        }
